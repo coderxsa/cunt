@@ -1,13 +1,18 @@
 {
-  "bot-name": "cunt",
-  "description": "cunt made for people on Earth",
+  "bot-name": "Cunt",
+  "description": "Cunt is a bot designed for users on Earth.",
   "logo": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/NEBULA-BOT/pic/bot_image.jpg",
-  "keywords": ["bot", "cunt"],
+  "keywords": ["bot", "AI assistant"],
   "documentation-link": "https://coderx-sessions.onrender.com/main.html",
   "owner-verification": "robloxdeved2020@gmail.com",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number (e.g., 2736547383)",
       "required": true,
       "value": ""
     }
