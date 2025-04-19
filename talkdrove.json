@@ -1,0 +1,15 @@
+{
+  "bot-name": "cunt",
+  "description": "cunt made for people on Earth",
+  "logo": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/NEBULA-BOT/pic/bot_image.jpg",
+  "keywords": ["bot", "cunt"],
+  "documentation-link": "https://coderx-sessions.onrender.com/main.html",
+  "owner-verification": "robloxdeved2020@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+    }
+  }
+}
